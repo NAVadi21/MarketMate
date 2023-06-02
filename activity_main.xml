@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to the Market App"
+        android:text="Welcome to the MarketPlace"
         android:textSize="24sp"
         android:textStyle="bold" />
 
