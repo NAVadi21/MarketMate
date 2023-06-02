@@ -18,10 +18,5 @@ public class Shop {
     public String getAddress() {
         
         return address;
-        
-    public String setAddress(){
-         this.address = address;
-        
-    }
 }
 
