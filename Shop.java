@@ -19,9 +19,9 @@ public class Shop {
         
         return address;
         
-    public String setName(){
-        this.name = name;
-    }
+    public String setAddress(){
+         this.address = address;
         
+    }
 }
 
