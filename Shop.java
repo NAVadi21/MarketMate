@@ -18,6 +18,10 @@ public class Shop {
     public String getAddress() {
         
         return address;
+        
+    public String setName(){
+        this.name = name;
     }
+        
 }
 
