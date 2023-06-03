@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         shopRecyclerView = findViewById(R.id.shopRecyclerView);
         shopList = getShopList(); // Populate the shop list with data
 
-        shopAdapter = new ShopAdapter(this, shopList);
+        shopAdapter = new ShopAdapter(this,  shopList);
         shopRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         shopRecyclerView.setAdapter(shopAdapter);
     }
