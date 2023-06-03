@@ -25,7 +25,7 @@ Our plan for this week is to focus on the following tasks:
 
 ## Contributing
 
-We welcome contributions to improve MarketMate! If you'd like to contribute, please follow these steps:
+We welcome contributions to improve MarketMate! If you'd like to contribute, follow these steps:
 
 1. Fork the repository and clone it to your local machine.
 2. Create a new branch for your feature or bug fix.
