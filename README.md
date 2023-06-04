@@ -35,5 +35,5 @@ We welcome contributions to improve MarketMate! If you'd like to contribute, fol
 
 
 
-We appreciate your interest in MarketMate and look forward to your contributions!
+We appreciate your interest in MarketMate and look forward to your contributions for the project!
 
