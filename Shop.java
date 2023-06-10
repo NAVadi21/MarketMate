@@ -17,4 +17,4 @@ public class Shop {
     public String getAddress() {
         return address;
 }
-
+ 
