@@ -42,7 +42,7 @@ public class ShopAdapter extends RecyclerView.Adapter<ShopAdapter.ShopViewHolder
                 // Open a new window or activity to display additional information about the shop
                 Intent intent = new Intent(context, ShopDetailActivity.class);
                 intent.putExtra("Shop", Shop); // Pass the shop object to the new activity
-                context.startActivity(intent);
+                context.startActivity(intent); 
             }
         });
     }
