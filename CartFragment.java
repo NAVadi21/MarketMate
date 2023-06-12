@@ -5,7 +5,7 @@ public class CartFragment extends Fragment {
     private List<Item> cartItemList;
  
     public CartFragment() {
-        // Required empty public constructor
+        // Required empty public constructor 
     }
 
     @Override
