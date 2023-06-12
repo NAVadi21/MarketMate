@@ -31,7 +31,7 @@ public class CartFragment extends Fragment {
         cartItemList.add(new Item("Item 1", "Category 1", 10.99));
         cartItemList.add(new Item("Item 2", "Category 2", 15.99));
         cartItemList.add(new Item("Item 3", "Category 1", 12.99));
-        // Add more items as needed
+        // Add more items as needed 
 
         return cartItemList;
     }
