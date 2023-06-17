@@ -3,7 +3,7 @@ public class OrderHistoryFragment extends Fragment {
     private RecyclerView orderHistoryRecyclerView;
     private OrderHistoryAdapter orderHistoryAdapter;
     private List<Order> orderList;
-
+ 
     public OrderHistoryFragment() {
         // Required empty public constructor
     }
