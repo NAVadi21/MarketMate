@@ -2,7 +2,7 @@
 ## MarketMate (Project Name)
 
 
-MarketMate is a vendor-based mobile application aimed at providing a seamless ordering system for users to conveniently purchase products from various shops in a market. This project is currently under production, and development will be actively carried out this week.
+MarketMate is a vendor-based mobile application aimed at providing a seamless ordering system for users to conveniently purchase products from various shops in a market. This project is currently under production, and development will be actively carried out this week. 
 
 ## Features (Planned)
 
