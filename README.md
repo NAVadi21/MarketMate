@@ -11,7 +11,7 @@ MarketMate is a vendor-based mobile application aimed at providing a seamless or
 - Ordering system for users to add items to their cart and place orders
 - Integration with a delivery management system to assign delivery jobs to employees
 - Notifications for order updates and delivery status
-- User authentication and account management
+- User authentication and account management 
 
 ## Development Roadmap
 
