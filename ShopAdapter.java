@@ -14,7 +14,7 @@ import java.util.List;
 
 public class ShopAdapter extends RecyclerView.Adapter<ShopAdapter.ShopViewHolder> {
 
-    private Context context;
+    private Context context; 
     
     private List<Shop> shopList;
 
