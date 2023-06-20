@@ -59,7 +59,7 @@ public class ShopAdapter extends RecyclerView.Adapter<ShopAdapter.ShopViewHolder
             super(itemView);
             shopNameTextView = itemView.findViewById(R.id.shopNameTextView);
 
-            
+             
             // Set item click listener
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
